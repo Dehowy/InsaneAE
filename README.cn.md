@@ -1,3 +1,5 @@
+[日本語](README.md) | [English](README.en.md) | **中文**
+
 # InsaneAE
 
 > 更多存储，更好的游戏体验……？
